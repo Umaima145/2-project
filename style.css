@@ -1,0 +1,12 @@
+h1{   
+   font-family: cursive;
+ font-size: 34px;
+ text-align: center;
+  
+ background-color: rgba(146, 206, 186, 0.753);
+}
+
+body{
+    background: rgb(2,0,36);
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,0.5830707282913166) 0%, rgba(9,9,121,0.5802696078431373) 35%, rgba(161,222,235,0.6138830532212884) 100%);}
